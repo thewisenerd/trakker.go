@@ -28,6 +28,14 @@ is generated for easy copy-pasting.
 
 ```/add?url=<url>```: add a tracker url
 
+#### install
+
+if you have [go](https://golang.org/) (v1.2+), you are good to go.
+
+```shell
+go run src/trakker/*
+```
+
 #### todo
 
 * **routing**: add ```/list.txt```, ```/list/genre.txt``` for easy download
