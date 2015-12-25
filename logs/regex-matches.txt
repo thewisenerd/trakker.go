@@ -1,0 +1,87 @@
+url:port or url:port/ or url:port/abc
+
+url:port
+
+	0: "udp://tracker.coppersurfer.tk:6969"
+	1: "udp://"
+	2: "udp"
+	3: "tracker.coppersurfer.tk:6969"
+	4: "tracker.coppersurfer.tk:6969"
+	5: "6969"
+	6: ""
+	7: ""
+	8: ""
+	9: ""
+	10: ""
+
+
+url:port/
+
+	0: "udp://tracker.coppersurfer.tk:6969/"
+	1: "udp://"
+	2: "udp"
+	3: "tracker.coppersurfer.tk:6969/"
+	4: "tracker.coppersurfer.tk:6969/"
+	5: "6969"
+	6: "/"
+	7: ""
+	8: ""
+	9: ""
+	10: ""
+
+
+url:port/abc
+
+	0: "udp://tracker.coppersurfer.tk:6969/announce"
+	1: "udp://"
+	2: "udp"
+	3: "tracker.coppersurfer.tk:6969/announce"
+	4: "tracker.coppersurfer.tk:6969/announce"
+	5: "6969"
+	6: "/"
+	7: "announce"
+	8: ""
+	9: ""
+	10: ""
+
+url
+
+	0: "udp://tracker.openbittorrent.com"
+	1: "udp://"
+	2: "udp"
+	3: "tracker.openbittorrent.com"
+	4: ""
+	5: ""
+	6: ""
+	7: ""
+	8: "tracker.openbittorrent.com"
+	9: ""
+	10: ""
+
+url/
+
+	0: "udp://tracker.openbittorrent.com/"
+	1: "udp://"
+	2: "udp"
+	3: "tracker.openbittorrent.com/"
+	4: ""
+	5: ""
+	6: ""
+	7: ""
+	8: "tracker.openbittorrent.com/"
+	9: "/"
+	10: ""
+
+url/abc
+
+	0: "udp://tracker.openbittorrent.com/announce"
+	1: "udp://"
+	2: "udp"
+	3: "tracker.openbittorrent.com/announce"
+	4: ""
+	5: ""
+	6: ""
+	7: ""
+	8: "tracker.openbittorrent.com/announce"
+	9: "/"
+	10: "announce"
