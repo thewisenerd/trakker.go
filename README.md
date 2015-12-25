@@ -34,5 +34,6 @@ is generated for easy copy-pasting.
 * **main**: create a webui for _presentation_, adding trackers
 * **trakker**: use JSON for GET/PUT
 * **trakker**: add a ```genre``` array field to tracker
+* **list**: check if URL is a valid tracker(?) before adding to list
 * **list**: ability to sort trackers acc. to ```protcol```, and ```port```
 * **list**: use an actual in-memory db (_or build one?_)
